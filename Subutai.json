@@ -13,7 +13,7 @@
         {
           "protocol": "HTTPS",
           "domain": "${domain}",
-          "internal-port": "8065",
+          "internal-port": "80",
           "external-port": "443"
         }
       ]
